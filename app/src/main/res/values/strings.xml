@@ -1,0 +1,48 @@
+<!--
+  Copyright 2022 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
+  in compliance with the License. You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software distributed under the License
+  is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express
+  or implied. See the License for the specific language governing permissions and limitations under
+  the License.
+  -->
+<resources>
+    <string name="app_name">MySnapApp</string>
+    <string name="favorite_collections">Favorite Collections</string>
+    <string name="align_your_body">Align your body</string>
+    <string name="ab1_inversions">Inversions</string>
+    <string name="ab2_quick_yoga">Quick yoga</string>
+    <string name="ab3_stretching">Stretching</string>
+    <string name="ab4_tabata">Tabata</string>
+    <string name="ab5_hiit">HIIT</string>
+    <string name="ab6_pre_natal_yoga">Pre-natal yoga</string>
+    <string name="fc1_short_mantras">Short mantras</string>
+    <string name="fc2_nature_meditations">Nature meditations</string>
+    <string name="fc3_stress_and_anxiety">Stress and anxiety</string>
+    <string name="fc4_self_massage">Self massage</string>
+    <string name="fc5_overwhelmed">Overwhelmed</string>
+    <string name="fc6_nightly_wind_down">Nightly wind down</string>
+    <string name="cd_fab_start">start</string>
+    <string name="bottom_navigation_home">HOME</string>
+    <string name="bottom_navigation_profile">PROFILE</string>
+    <string name="placeholder_search">Search</string>
+    <string name="cartas_populares">Cartas Populares</string>
+    <string name="arquetipos">Arquetipos</string>
+    <string name="carta1_popular">Modok</string>
+    <string name="carta2_popular">Thanos</string>
+    <string name="carta3_popular">Negative</string>
+    <string name="carta4_popular">Mystique</string>
+    <string name="carta5_popular">Hela</string>
+    <string name="carta6_popular">Shuri</string>
+    <string name="arquetipo1">Descartes</string>
+    <string name="arquetipo2">Destruir</string>
+    <string name="arquetipo3">Molestar</string>
+    <string name="arquetipo4">Cerebro</string>
+    <string name="arquetipo5">KaZoo</string>
+    <string name="arquetipo6">Control</string>
+</resources>
